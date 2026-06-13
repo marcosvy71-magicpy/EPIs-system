@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Banco de dados
+db/*.sqlite
+db/*.db
+
+# Modelos treinados
+model/*.pt
+model/*.weights
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
